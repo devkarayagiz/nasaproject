@@ -14,6 +14,7 @@
 		DA5F1BA129C4536E00EA9804 /* TekVeri.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = DA5F1B9F29C4536E00EA9804 /* TekVeri.xcdatamodeld */; };
 		DA5F1BA329C4536F00EA9804 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA5F1BA229C4536F00EA9804 /* Assets.xcassets */; };
 		DA5F1BA629C4536F00EA9804 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA5F1BA429C4536F00EA9804 /* LaunchScreen.storyboard */; };
+		DA5F1BAE29C453AF00EA9804 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA5F1BAD29C453AF00EA9804 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		DA5F1BA229C4536F00EA9804 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DA5F1BA529C4536F00EA9804 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DA5F1BA729C4536F00EA9804 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA5F1BAD29C453AF00EA9804 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				DA5F1BA429C4536F00EA9804 /* LaunchScreen.storyboard */,
 				DA5F1BA729C4536F00EA9804 /* Info.plist */,
 				DA5F1B9F29C4536E00EA9804 /* TekVeri.xcdatamodeld */,
+				DA5F1BAD29C453AF00EA9804 /* Model.swift */,
 			);
 			path = TekVeri;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA5F1BAE29C453AF00EA9804 /* Model.swift in Sources */,
 				DA5F1B9B29C4536E00EA9804 /* ViewController.swift in Sources */,
 				DA5F1B9729C4536E00EA9804 /* AppDelegate.swift in Sources */,
 				DA5F1BA129C4536E00EA9804 /* TekVeri.xcdatamodeld in Sources */,
